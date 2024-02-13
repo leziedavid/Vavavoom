@@ -1,0 +1,76 @@
+{
+    "ville":[
+        {
+            "id": 1 ,
+            "name" : "Bouna"
+        }, 
+        
+        {
+            "id": 2 ,
+            "name" : "Bondoukou"
+        }, 
+        {
+            "id": 3 ,
+            "name" : "Man"
+        }, 
+        {
+            "id": 4 ,
+            "name" : "Abengourou"
+        }, 
+        {
+            "id": 5 ,
+            "name" : "Tiassalé"
+        }, 
+        {
+            "id": 6 ,
+            "name" : "Touba"
+        }, 
+        {
+            "id": 7 ,
+            "name" : "Abidjan"
+        }, 
+        {
+            "id": 1 ,
+            "name" : "Yamoussoukro"
+        }
+
+    ], 
+    "transporteur":[
+        {
+            "id":1 , 
+            "name" : "LE LABELLE TRANSPORT",
+            "price" : "3000"
+
+        },
+        {
+            "id":2 , 
+            "name" : "OC TRANSPORT",
+            "price" : "40000"
+
+        },
+        {
+            "id":3 , 
+            "name" : "OTCI",
+            "price" : "1000"
+
+        },
+        {
+            "id":4 , 
+            "name" : "TCV",
+            "price" : "3000"
+
+        },
+        {
+            "id":5, 
+            "name" : "UTS",
+            "price" : "5000"
+
+        },
+        {
+            "id":1 , 
+            "name" : "STB",
+            "price" : "2000"
+
+        }
+    ]
+}

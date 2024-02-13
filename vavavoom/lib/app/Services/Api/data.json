@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "12/10/2022": ["lundi", "mardi"]
+    },
+    {
+      "01/12/2022": ["lundi", "mercredi"]
+    },
+    {
+      "14/02/2023": ["mardi", "mercredi" , "samedi"]
+    }
+  ]
+}
